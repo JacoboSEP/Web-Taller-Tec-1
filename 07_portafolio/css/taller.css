@@ -1,0 +1,7 @@
+
+#servicios {
+    background-color: aquamarine;
+}
+#servicios>* {
+    border: 1px solid blueviolet;
+}
