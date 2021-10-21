@@ -1,0 +1,54 @@
+@media(min-width:576px) {
+    html {
+        font-size: 14px;
+    }
+}
+@media(min-width:768px) {
+    html {
+        font-size: 20px;
+    }
+}
+
+@media(min-width:992px) {
+    html {
+        font-size: 24px;
+    }
+}
+
+@media(min-width:1200px) {
+    html {
+        font-size: 28px;
+    }
+}
+
+#subtitulo {
+    background-color: chocolate;
+    font-size: 1.2rem;
+}
+#primero {
+    background-color: coral;
+    border: 0.3rem solid cornflowerblue;
+}
+
+#segundo {
+    background-color: deepskyblue;
+}
+
+#col_1 {
+    background-color: bisque;
+    border: 0.1rem solid black;
+    font-size: 1rem;
+}
+
+#col_2 {
+    background-color: rgb(180, 107, 18);
+    font-size: 1rem;
+    border: 0.1rem solid black;
+}
+
+#col_3 {
+    background-color: bisque;
+    font-size: 1rem;
+    border: 0.1rem solid black;
+}
+
